@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/tip-calculator-app-RkL021XdOh)
+- Live Site URL: [Add live site URL here](https://splitter-enjxwp5a6-tiburciohugo.vercel.app)
 
 ## My process
 
